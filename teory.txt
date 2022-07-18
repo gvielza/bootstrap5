@@ -1,0 +1,2 @@
+boostrap:Libreria estilo css creada por twiter, lo principal es la responsibilidad
+cdn(red de distribucion de contenido)
